@@ -1,0 +1,42 @@
+to control flow of any program these tatements are available
+control statements -
+conditional-if,elif,else
+loops-for,while ,else suite
+nested loops,nested if else
+infinite loops
+pass
+continue
+break
+assert 
+return
+
+
+1. Control statements: Statements that control the flow of execution of a program.
+
+2. if: Executes a block of code when a condition is true.
+
+3. elif: Checks another condition if the previous if condition is false.
+
+4. else: Executes a block of code when all conditions are false.
+
+5. for loop: Repeats a block of code for a fixed number of times or over a sequence.
+
+6. while loop: Repeats a block of code as long as a condition is true.
+
+7. else (with loop): Executes when a loop finishes normally without break.
+
+8. Nested loops: A loop written inside another loop.
+
+9. Nested if-else: An if-else statement written inside another if-else statement.
+
+10. Infinite loop: A loop that runs forever because its condition never becomes false.
+
+11. pass: A null statement that does nothing and is used as a placeholder.
+
+12. continue: Skips the current iteration and moves to the next iteration of the loop.
+
+13. break: Terminates the loop immediately.
+
+14. assert: Checks a condition and raises an error if the condition is false.
+
+15. return: Sends a value back from a function and exits it.
