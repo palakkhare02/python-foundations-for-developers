@@ -18,3 +18,8 @@ b="Hello"     #-ve indexing starts with -1(right to left)
 print(a[-1])
 print(a[-2])
 print(a[-4])
+
+# slicing in string
+str="world"
+print(str[1:5])
+print(str[::-1])
