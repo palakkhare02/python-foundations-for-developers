@@ -25,6 +25,9 @@ elif choice == "%":
 
 elif choice == "**":
      print(f'Exponential : {num1 ** num2}')
+
+else:
+  print("invalid choice")
         
 
 
