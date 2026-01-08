@@ -34,5 +34,8 @@ class ClasssName:
 
 ___init__() --constructor
 self.property : store value inside object
-
+types of constructo :
+1.default constructor-no parameter (self)only pass self
+2.prameterized constructor (self,age,name)
+3. contructor with default values(self ,name="unknown" ,age=0)
 """
