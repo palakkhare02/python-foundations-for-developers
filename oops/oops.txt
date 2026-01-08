@@ -8,7 +8,7 @@ oops main pillar-
 2. inheritance
 3.encapsulation -hide internal details and stop to direct access. 
                  control methods -getter,setter
-4.abstraction
+4.abstraction -hide unneccessary details
 5.polymorphism  - one name and many forms
   example -  word =run
   person can run fast
