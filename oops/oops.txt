@@ -9,3 +9,8 @@ oops main pillar-
 3.encapsulation
 4.abstraction
 5.polymorphism
+
+-------------------
+self is a special keyword/variable use inside class to refer to a current object.
+
+
