@@ -1,0 +1,11 @@
+oops main pillar-
+
+1.classes and objects -class is a blueprint or template for creating objects
+  ex- map-class, house-objects
+  objects= object are actual instance of a class
+  class= car blueprint , object = actual car
+
+2. inheritance
+3.encapsulation
+4.abstraction
+5.polymorphism
