@@ -1,0 +1,7 @@
+function -block of code increase the reusablility , modularity ,scoping.
+
+advantage
+clarity,maintenance
+
+
+
