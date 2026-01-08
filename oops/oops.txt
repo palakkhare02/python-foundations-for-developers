@@ -8,7 +8,12 @@ oops main pillar-
 2. inheritance
 3.encapsulation
 4.abstraction
-5.polymorphism
+5.polymorphism  - one name and many forms
+  example -  word =run
+  person can run fast
+  car runs in petrol
+  computer program run smoothly
+  
 
 -------------------
 self is a special keyword/variable use inside class to refer to a current object.
