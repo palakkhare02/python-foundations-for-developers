@@ -6,14 +6,15 @@ oops main pillar-
   class= car blueprint , object = actual car
 
 2. inheritance
-3.encapsulation
+3.encapsulation -hide internal details and stop to direct access. 
+                 control methods -getter,setter
 4.abstraction
 5.polymorphism  - one name and many forms
   example -  word =run
   person can run fast
   car runs in petrol
   computer program run smoothly
-  
+
 
 -------------------
 self is a special keyword/variable use inside class to refer to a current object.
