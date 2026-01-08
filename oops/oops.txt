@@ -5,7 +5,7 @@ oops main pillar-
   objects= object are actual instance of a class
   class= car blueprint , object = actual car
 
-2. inheritance
+2. inheritance- reuse properties /mthods from a parent class.
 3.encapsulation -hide internal details and stop to direct access. 
                  control methods -getter,setter
 4.abstraction -hide unneccessary details
