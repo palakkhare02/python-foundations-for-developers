@@ -3,5 +3,7 @@ function -block of code increase the reusablility , modularity ,scoping.
 advantage
 clarity,maintenance
 
+difference btw generator and decorator
 
-
+decorator- use to modify and ehance function ,they wrap another function.
+generators-generate a sequence value over time,memory not consume for all iterators.
