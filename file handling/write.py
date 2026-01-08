@@ -1,0 +1,5 @@
+file=open(r"C:\Users\apk14\OneDrive\Desktop\python\python-foundations-for-developers\file handling\write.txt","w")
+content=input('enter a data to write : ')
+file.write(content)
+print("data saved successfully")
+file.close()
