@@ -11,4 +11,3 @@ print(dog1)
 print(dog1.name)
 print(dog1.age)
     
-    
